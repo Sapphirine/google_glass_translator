@@ -1,1 +1,2 @@
-# google_glass_translator
+# googleGlassTranslator
+ 
